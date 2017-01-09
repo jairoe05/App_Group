@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AgroAgenda</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="n_cosecha">Nueva Cosecha</string>
+    <string name="a_cosecha">Administrar Cosecha</string>
+    <string name="v_cosecha">Vender Cosecha</string>
+    <string name="calc_cosecha">Calcular Cosecha</string>
+    <string name="titulo_menu">Agro Agenda</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cosecha">cosecha</string>
+    <string name="title_activity_nueva_cosecha">nuevaCosecha</string>
+
+    <!--String de activity: nuevaCosecha-->
+
+    <string name="tituloNC">Registrar nueva cosecha</string>
+
+
+    <string name="botonDate">Escoger fecha</string>
+
+
+    <!--String de activity: nombre socio-->
+    <string name="info_text">Escriba el nombre del socio: </string>
+    <string name="crear_boton">CREAR CUENTA</string>
+    <string name="nombre_input">Nombre Apellido</string>
+    <string name="contrasena_input">Conocido como</string>
+    <string name="recordar_check">Recordarme</string>
+    <string name="olvidar_text">¿Olvidaste tu Contraseña?</string>
+    <string name="entrar_boton">Guardar</string>
+    <string name="porsentaje_input">Porsentaje del siembro</string>
+    <string name="consultar">Consultar</string>
+
+</resources>
